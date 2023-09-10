@@ -61,7 +61,7 @@
   width: 200px;
   border-radius: 8px;
   border:1px solid white;
-
+object-fit:fill;
 }
 .types {
 
